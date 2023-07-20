@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+C:\ПОИТ\ОАП (2 сем)\Лаб 12\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\ПОИТ\ОАП (2 сем)\Лаб 12\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(41,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\ПОИТ\ОАП (2 сем)\Лаб 12\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(45,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Tree.cpp
+  Создание кода...
+C:\ПОИТ\ОАП (2 сем)\Лаб 12\ConsoleApplication1\ConsoleApplication1\Tree.cpp(271): warning C4715: Tree::check_right: значение возвращается не при всех путях выполнения
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: int __thiscall Tree::countLeftElements(struct Node *)" (?countLeftElements@Tree@@QAEHPAUNode@@@Z) в функции _main.
+C:\ПОИТ\ОАП (2 сем)\Лаб 12\ConsoleApplication1\Debug\ConsoleApplication1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

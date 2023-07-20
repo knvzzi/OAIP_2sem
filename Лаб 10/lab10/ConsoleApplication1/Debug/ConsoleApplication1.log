@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\ПОИТ\ОАП (2 сем)\Лаб 10\lab10\ConsoleApplication1\ConsoleApplication1.cpp(134,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\ПОИТ\ОАП (2 сем)\Лаб 10\lab10\ConsoleApplication1\ConsoleApplication1.cpp(134,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\ПОИТ\ОАП (2 сем)\Лаб 10\lab10\ConsoleApplication1\ConsoleApplication1.cpp(99): warning C4715: find: значение возвращается не при всех путях выполнения
+C:\ПОИТ\ОАП (2 сем)\Лаб 10\lab10\ConsoleApplication1\ConsoleApplication1.cpp(86): warning C4715: posled: значение возвращается не при всех путях выполнения
+  ConsoleApplication1.vcxproj -> C:\ПОИТ\ОАП (2 сем)\Лаб 10\lab10\Debug\ConsoleApplication1.exe

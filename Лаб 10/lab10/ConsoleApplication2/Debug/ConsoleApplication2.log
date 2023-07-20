@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+C:\ПОИТ\ОАП (2 сем)\Лаб 10\lab10\ConsoleApplication2\ConsoleApplication2.cpp(6,11): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\ПОИТ\ОАП (2 сем)\Лаб 10\lab10\ConsoleApplication2\ConsoleApplication2.cpp(15,23): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication2.vcxproj -> C:\ПОИТ\ОАП (2 сем)\Лаб 10\lab10\Debug\ConsoleApplication2.exe

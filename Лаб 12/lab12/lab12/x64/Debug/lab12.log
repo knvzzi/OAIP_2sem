@@ -1,0 +1,6 @@
+﻿  Tree.cpp
+  lab12.cpp
+C:\ПОИТ\ОАП (2 сем)\Лаб 12\lab12\lab12\lab12.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+C:\ПОИТ\ОАП (2 сем)\Лаб 12\lab12\lab12\Tree.cpp(257): warning C4715: Tree::check_right: значение возвращается не при всех путях выполнения
+  lab12.vcxproj -> C:\ПОИТ\ОАП (2 сем)\Лаб 12\lab12\x64\Debug\lab12.exe
